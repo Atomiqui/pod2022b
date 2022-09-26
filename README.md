@@ -30,18 +30,18 @@ Calendário UFSM: https://www.ufsm.br/calendario/
 |  2 | 2022-09-15 Qui | Introdução a análise e complexidade de algoritmos.                               | Ziviane cap 1, Cormen cap 1/2/3, Sedgewick (1.4)         |
 | - | 2022-09-20 Ter | **Feriado** (Revolução Farroupilha) | |
 |  3 | 2022-09-22 Ter | Introdução a ordenação de dados. Ordenação interna.                              | Ziviane cap 4, Sedgewick cap 2                           |
-| - | 2022-09-27 Ter | **Sem aula**  | |
-|  4 | 2022-09-29 Qui | Ordenação interna: quicksort, mergesort.                                         | Ziviane cap 4, Sedgewick cap 2                           |
-|  5 | 2022-10-04 Ter | Ordenação interna: quicksort, mergesort.                                         | Ziviane cap 4, Cormen cap 7, Sedgewick cap 2             |
-|  6 | 2022-10-06 Qui | Ordenação interna: heapsort.                                                     | Ziviane cap 4, Cormen cap 6, Sedgewick cap 2             |
-|  7 | 2022-10-11 Ter | Aula prática: ordenação e busca em C++                                           |                                                          |
-|  8 | 2022-10-13 Qui | Ordenação interna: countingsort, bucketsort, radixsort.                          | Ziviane cap 4, Cormen cap 8, Sedgewick cap 2             |
-|  9 | 2022-10-18 Ter | Ordenação externa: classificação.                                                | Ziviane cap 4                                            |
-| 10 | 2022-10-20 Qui | Ordenação externa: intercalação.                                                 | Ziviane cap 4                                            |
-| 11 | 2022-10-25 Ter | Introdução a pesquisa em memória primária.                                       | Ziviane cap 5, Sedgewick cap 3                           |
-| 12 | 2022-10-27 Qui | Árvores balanceadas: AVL.                                                        | Sedgewick cap 2,Cormen cap 11                            |
-| 13 | 2022-11-01 Ter | Árvores balanceadas: AVL e rubro-negras (red-black trees)                        |                                                          |
-| 14 | 2022-11-03 Qui | Árvores balanceadas: AVL e rubro-negras (red-black trees)                        |                                                          |
+| 4 | 2022-09-27 Ter | Aula prática: ordenação e busca em C++                                    |  [slides](./aulas/pratica01.pdf), [exemplos](./aulas/exemplos-pratica01.tgz) |
+|  5 | 2022-09-29 Qui | Ordenação interna: quicksort, mergesort.                                         | Ziviane cap 4, Sedgewick cap 2                           |
+|  6 | 2022-10-04 Ter | Ordenação interna: quicksort, mergesort.                                         | Ziviane cap 4, Cormen cap 7, Sedgewick cap 2             |
+|  7 | 2022-10-06 Qui | Ordenação interna: heapsort.                                                     | Ziviane cap 4, Cormen cap 6, Sedgewick cap 2             |
+|  8 | 2022-10-11 Ter | Ordenação interna: countingsort, bucketsort, radixsort.                          | Ziviane cap 4, Cormen cap 8, Sedgewick cap 2             |
+|  9 | 2022-10-13 Qui | Ordenação externa: classificação.                                                | Ziviane cap 4                                            |
+| 10 | 2022-10-18 Ter | Ordenação externa: intercalação.                                                 | Ziviane cap 4                                            |
+| 11 | 2022-10-20 Qui | Introdução a pesquisa em memória primária.                                       | Ziviane cap 5, Sedgewick cap 3                           |
+| 12 | 2022-10-25 Ter | Árvores balanceadas: AVL.                                                        | Sedgewick cap 2,Cormen cap 11                            |
+| 13 | 2022-10-27 Qui | Árvores balanceadas: AVL e rubro-negras (red-black trees)                        |                                                          |
+| 14 | 2022-11-01 Ter | Árvores balanceadas: AVL e rubro-negras (red-black trees)                        |                                                          |
+| 15 | 2022-11-03 Qui | Árvores balanceadas: AVL e rubro-negras (red-black trees)                        |                                                          |
 | - | 2022-11-08 Ter | **JAI**  | |
 | - | 2022-11-10 Qui | **JAI**  | |
 | - | 2022-11-15 Ter | **Feriado** (Proclamação da República) | |

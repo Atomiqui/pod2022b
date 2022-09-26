@@ -109,7 +109,7 @@ Calendário UFSM: https://www.ufsm.br/calendario/
 ## Material complementar
 - [Introdução em C++](https://github.com/jvlima-ufsm/l22022b/tree/master/aulas/introducao_cxx)
 - [Aula prática 1](./aulas/pratica01.pdf) e [exemplos](./aulas/exemplos-pratica01.tgz) (Henrique M. Persch).
-- [Arquivos de grade e hash particionado]](./aulas/aula23.pdf)
+- [Arquivos de grade e hash particionado](./aulas/aula23.pdf)
 - [Índices de múltiplas chaves e árvores KD](./aulas/aula24.pdf)
 - [Árvores quadrante e árvores R](./aulas/aula25.pdf)
 - [Introdução compressão de dados](./aulas/aula26.pdf)

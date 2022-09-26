@@ -46,23 +46,23 @@ Calendário UFSM: https://www.ufsm.br/calendario/
 | - | 2022-11-10 Qui | **JAI**  | |
 | - | 2022-11-15 Ter | **Feriado** (Proclamação da República) | |
 | - | 2022-11-17 Qui | **SAINF 2022 ??** | |
-| 15 | 2022-11-22 Ter  | Revisão |           |
-| 16 | 2022-11-24 Qui  | **Prova I** |           |
-| 17 | 2022-11-29 Ter | Tabelas Hash                                                                     | Ziviane cap 5, Cormen cap 11                             |
-| 18 | 2022-12-01 Qui | Pesquisa digital: árvores Trie e Patricia                                        | Ziviane cap 5                                            |
-| 19 | 2022-12-06 Ter | Pesquisa digital: árvores Trie e Patricia                                        | Ziviane cap 5                                            |
+| 16 | 2022-11-22 Ter  | Revisão |           |
+| 17 | 2022-11-24 Qui  | **Prova I** |           |
+| 18 | 2022-11-29 Ter | Tabelas Hash                                                                     | Ziviane cap 5, Cormen cap 11                             |
+| 19 | 2022-12-01 Qui | Pesquisa digital: árvores Trie e Patricia                                        | Ziviane cap 5                                            |
+| 20 | 2022-12-06 Ter | Pesquisa digital: árvores Trie e Patricia                                        | Ziviane cap 5                                            |
 |    | 2022-12-06 Qui |  **Feriado** (Nossa Senhora da Conceição)    |            |
-| 20 | 2022-12-13 Ter | Pesquisa em memória secundária, índices (densos e esparsos)                      | Ziviane cap 6, Silberschatz cap 10, Garcia-Molina cap 4  |
-| 21 | 2022-12-15 Qui | Índices - Árvore B+                                                              |                                                          |
-| 22 | 2022-12-20 Ter | Índices - Árvore B+                                                              |                                                          |
-| 23 | 2022-12-22 Qui | Índices hash, índices compostos, índices de bitmap                               | Silberchatz cap 11, Navathe cap 17, Garcia-Molina cap 5. |
-| 24 | 2023-01-03 Ter | Arquivos de grade e hash particionado, índices de múltiplas chaves, e árvores Kd | Garcia-Molina cap 5                                      |
-| 25 | 2023-01-05 Qui | Árvores quadrante e árvores R                                                    |                                                          |
-| 26 | 2023-01-10 Ter | Introdução a compressão de arquivos                                              |                                                          |
-| 27 | 2023-01-12 Qui | Métodos básicos e estatísticos                                                   |                                                          |
-| 28 | 2023-01-17 Ter | Métodos de compressão LZ77, LZ78, LZW.                                           |                                                          |
-| 29 | 2023-01-19 Qui | Revisão |                                                          |
-| 30 | 2023-01-24 Ter | **Prova II**  |                                                          |
+| 21 | 2022-12-13 Ter | Pesquisa em memória secundária, índices (densos e esparsos)                      | Ziviane cap 6, Silberschatz cap 10, Garcia-Molina cap 4  |
+| 22 | 2022-12-15 Qui | Índices - Árvore B+                                                              |                                                          |
+| 23 | 2022-12-20 Ter | Índices - Árvore B+                                                              |                                                          |
+| 24 | 2022-12-22 Qui | Índices hash, índices compostos, índices de bitmap                               | Silberchatz cap 11, Navathe cap 17, Garcia-Molina cap 5. |
+| 25 | 2023-01-03 Ter | Arquivos de grade e hash particionado, índices de múltiplas chaves, e árvores Kd | Garcia-Molina cap 5                                      |
+| 26 | 2023-01-05 Qui | Árvores quadrante e árvores R                                                    |                                                          |
+| 27 | 2023-01-10 Ter | Introdução a compressão de arquivos                                              |                                                          |
+| 28 | 2023-01-12 Qui | Métodos básicos e estatísticos                                                   |                                                          |
+| 29 | 2023-01-17 Ter | Métodos de compressão LZ77, LZ78, LZW.                                           |                                                          |
+| 30 | 2023-01-19 Qui | Revisão |                                                          |
+|  | 2023-01-24 Ter | **Prova II**  |                                                          |
 | - | 2023-02-07 Ter | Avaliações Finais | |
 
 

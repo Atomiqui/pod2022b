@@ -32,7 +32,7 @@ Calendário UFSM: https://www.ufsm.br/calendario/
 |  3 | 2022-09-22 Ter | Introdução a ordenação de dados. Ordenação interna.                              | Ziviane cap 4, Sedgewick cap 2                           |
 | 4 | 2022-09-27 Ter | Aula prática: ordenação e busca em C++                                    |  [slides](./aulas/pratica01.pdf), [exemplos](./aulas/exemplos-pratica01.tgz) |
 |  5 | 2022-09-29 Qui | Ordenação interna: quicksort, mergesort.                                         | Ziviane cap 4, Sedgewick cap 2                           |
-|  6 | 2022-10-04 Ter | Ordenação interna: quicksort, mergesort.                                         | Ziviane cap 4, Cormen cap 7, Sedgewick cap 2             |
+|  6 | 2022-10-04 Ter | Ordenação interna: heapsort.                                                     | Ziviane cap 4, Cormen cap 6, Sedgewick cap 2             |
 |  7 | 2022-10-06 Qui | Ordenação interna: heapsort.                                                     | Ziviane cap 4, Cormen cap 6, Sedgewick cap 2             |
 |  8 | 2022-10-11 Ter | Ordenação interna: countingsort, bucketsort, radixsort.                          | Ziviane cap 4, Cormen cap 8, Sedgewick cap 2             |
 |  9 | 2022-10-13 Qui | Ordenação externa: classificação.                                                | Ziviane cap 4                                            |

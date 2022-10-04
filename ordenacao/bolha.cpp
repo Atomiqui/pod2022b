@@ -7,6 +7,7 @@
 #include <algorithm>
 #include <iomanip>
 #include <cassert>
+#include <iterator>
 
 using namespace std;
 
@@ -42,8 +43,7 @@ int main(void)
     copy( A.begin(), A.end(), Acopia.begin() );
 
     // imprime entrada
-    for(auto it= A.begin(); it != A.end(); it++)
-        cout << *it << " ";
+    copy( A.begin(), A.end(), ostream_iterator<int>(cout, " ") );
     cout << endl;
 
     {

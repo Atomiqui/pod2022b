@@ -36,18 +36,18 @@ Calendário UFSM: https://www.ufsm.br/calendario/
 |  7 | 2022-10-06 Qui | Ordenação interna: countingsort, bucketsort, radixsort.                          | Ziviane cap 4, Cormen cap 8, Sedgewick cap 2             |
 |  8 | 2022-10-11 Ter | Ordenação externa: classificação.                                                | Ziviane cap 4                                            |
 |  9 | 2022-10-13 Qui | Ordenação externa: intercalação.                                                 | Ziviane cap 4                                            |
-| 10 | 2022-10-18 Ter |                                                  |                                            |
-| 11 | 2022-10-20 Qui | Introdução a pesquisa em memória primária.                                       | Ziviane cap 5, Sedgewick cap 3                           |
-| 12 | 2022-10-25 Ter | Árvores balanceadas: AVL.                                                        | Sedgewick cap 2,Cormen cap 11                            |
-| 13 | 2022-10-27 Qui | Árvores balanceadas: AVL e rubro-negras (red-black trees)                        |                                                          |
+| 10 | 2022-10-18 Ter | Introdução a pesquisa em memória primária.                                       |   Ziviane cap 5, Sedgewick cap 3                                          |
+| 11 | 2022-10-20 Qui |  Árvores balanceadas: AVL.                                                       |       Sedgewick cap 2,Cormen cap 11                     |
+| 12 | 2022-10-25 Ter |  Árvores balanceadas: AVL e rubro-negras (red-black trees)                       |                            |
+| 13 | 2022-10-27 Qui |Árvores balanceadas: AVL e rubro-negras (red-black trees)                         |                                                          |
 | 14 | 2022-11-01 Ter | Árvores balanceadas: AVL e rubro-negras (red-black trees)                        |                                                          |
-| 15 | 2022-11-03 Qui | Árvores balanceadas: AVL e rubro-negras (red-black trees)                        |                                                          |
+| 15 | 2022-11-03 Qui |  Revisão                      |                                                          |
 | - | 2022-11-08 Ter | **JAI**  | |
 | - | 2022-11-10 Qui | **JAI**  | |
 | - | 2022-11-15 Ter | **Feriado** (Proclamação da República) | |
 | - | 2022-11-17 Qui | **SAINF 2022 ??** | |
-| 16 | 2022-11-22 Ter  | Revisão |           |
-| 17 | 2022-11-24 Qui  | **Prova I** |           |
+| 16 | 2022-11-22 Ter  |   **Prova I** |           |
+| 17 | 2022-11-24 Qui  | |           |
 | 18 | 2022-11-29 Ter | Tabelas Hash                                                                     | Ziviane cap 5, Cormen cap 11                             |
 | 19 | 2022-12-01 Qui | Pesquisa digital: árvores Trie e Patricia                                        | Ziviane cap 5                                            |
 | 20 | 2022-12-06 Ter | Pesquisa digital: árvores Trie e Patricia                                        | Ziviane cap 5                                            |

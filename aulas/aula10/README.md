@@ -16,7 +16,7 @@ int Binaria( int* A, int n, int chave ) {
 }
 ```
 
-O algoritmo acima não seria genérico sufiente porque pode causar *overflow* e faz uma comparação adicional. Sean Parent commenta sobre uma versão genérica do algoritmo.
+O algoritmo acima não seria genérico sufiente porque pode causar *overflow* e faz uma comparação adicional. [Sean Parent](https://www.youtube.com/watch?v=iwJpxWHuZQY&t=1692s) commenta sobre uma versão genérica do algoritmo.
 ```C++
 template<class I, class T>
 I lower_bound(I f, I l, const T& v){

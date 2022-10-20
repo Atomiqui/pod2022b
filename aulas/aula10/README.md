@@ -30,3 +30,7 @@ I lower_bound(I f, I l, const T& v){
 }
 ```
 A função `lower_bound` faz uma busca binária e retorna o índice do elemento encontrado, ou o primeiro elemento que não satisfaz a condição `elem < v`.
+
+# Referências
+- https://www.youtube.com/watch?v=iwJpxWHuZQY&t=1692s
+- https://en.cppreference.com/w/cpp/algorithm/lower_bound

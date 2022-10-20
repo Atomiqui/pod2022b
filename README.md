@@ -36,7 +36,7 @@ Calendário UFSM: https://www.ufsm.br/calendario/
 |  7 | 2022-10-06 Qui | Ordenação interna: countingsort, bucketsort, radixsort.                          | Ziviane cap 4, Cormen cap 8, Sedgewick cap 2             |
 |  8 | 2022-10-11 Ter | Ordenação externa: classificação.                                                | Ziviane cap 4                                            |
 |  9 | 2022-10-13 Qui | Ordenação externa: intercalação.                                                 | Ziviane cap 4                                            |
-| 10 | 2022-10-18 Ter | Introdução a pesquisa em memória primária.                                       |   Ziviane cap 5, Sedgewick cap 3                                          |
+| 10 | 2022-10-18 Ter | Introdução a pesquisa em memória primária.                                       |   Ziviane cap 5, Sedgewick cap 3, [Busca binária](./aulas/aula10) |
 | 11 | 2022-10-20 Qui |  Árvores balanceadas: AVL.                                                       |       Sedgewick cap 2,Cormen cap 11                     |
 | 12 | 2022-10-25 Ter |  Árvores balanceadas: AVL e rubro-negras (red-black trees)                       |                            |
 | 13 | 2022-10-27 Qui |Árvores balanceadas: AVL e rubro-negras (red-black trees)                         |                                                          |

@@ -41,11 +41,11 @@ Calendário UFSM: https://www.ufsm.br/calendario/
 | 12 | 2022-10-25 Ter |  Árvores balanceadas: AVL e rubro-negras (red-black trees)                       |                            |
 | 13 | 2022-10-27 Qui |Árvores balanceadas: AVL e rubro-negras (red-black trees)                         |                                                          |
 | 14 | 2022-11-01 Ter | Árvores balanceadas: AVL e rubro-negras (red-black trees)                        |                                                          |
-| 15 | 2022-11-03 Qui |  Revisão                      |                                                          |
+| 15 | 2022-11-03 Qui |  Revisão              |                                                          | Lista de exercícios ([pdf](./listas/elc1068-lista-I-exercicios.pdf), [web](https://docs.google.com/document/d/e/2PACX-1vQ4cObD6G9c0wI2JBnWkvFo57rlAPwERuV-jZxd7-D9KXRx83ypKsRGyJbNaT4zgOZbhkAReuQSytuJ/pub))
 | - | 2022-11-08 Ter | **JAI**  | |
 | - | 2022-11-10 Qui | **JAI**  | |
 | - | 2022-11-15 Ter | **Feriado** (Proclamação da República) | |
-| - | 2022-11-17 Qui | **SAINF 2022 ??** | |
+| - | 2022-11-17 Qui | **SAINF 2022** | |
 | 16 | 2022-11-22 Ter  |   **Prova I** |           |
 | 17 | 2022-11-24 Qui  | |           |
 | 18 | 2022-11-29 Ter | Tabelas Hash                                                                     | Ziviane cap 5, Cormen cap 11                             |

@@ -47,7 +47,7 @@ Calendário UFSM: https://www.ufsm.br/calendario/
 | - | 2022-11-15 Ter | **Feriado** (Proclamação da República) | |
 | - | 2022-11-17 Qui | **SAINF 2022** | |
 | 16 | 2022-11-22 Ter  |   **Prova I** |           |
-| 17 | 2022-11-24 Qui  | |           |
+| 17 | 2022-11-24 Qui  | **Sem aula** (Jogo da Copa do Mundo) |           |
 | 18 | 2022-11-29 Ter | Tabelas Hash                                                                     | Ziviane cap 5, Cormen cap 11                             |
 | 19 | 2022-12-01 Qui | Pesquisa digital: árvores Trie e Patricia                                        | Ziviane cap 5                                            |
 | 20 | 2022-12-06 Ter | Pesquisa digital: árvores Trie e Patricia                                        | Ziviane cap 5                                            |

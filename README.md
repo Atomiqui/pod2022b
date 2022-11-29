@@ -51,7 +51,7 @@ Calendário UFSM: https://www.ufsm.br/calendario/
 | 18 | 2022-11-29 Ter | Tabelas Hash                                                                     | Ziviane cap 5, Cormen cap 11                             |
 | 19 | 2022-12-01 Qui | Pesquisa digital: árvores Trie e Patricia                                        | Ziviane cap 5                                            |
 | 20 | 2022-12-06 Ter | Pesquisa digital: árvores Trie e Patricia                                        | Ziviane cap 5                                            |
-|    | 2022-12-06 Qui |  **Feriado** (Nossa Senhora da Conceição)    |            |
+|    | 2022-12-08 Qui |  **Feriado** (Nossa Senhora da Conceição)    |            |
 | 21 | 2022-12-13 Ter | Pesquisa em memória secundária, índices (densos e esparsos)                      | Ziviane cap 6, Silberschatz cap 10, Garcia-Molina cap 4  |
 | 22 | 2022-12-15 Qui | Índices - Árvore B+                                                              |                                                          |
 | 23 | 2022-12-20 Ter | Índices - Árvore B+                                                              |                                                          |

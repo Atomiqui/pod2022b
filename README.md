@@ -49,7 +49,7 @@ Calendário UFSM: https://www.ufsm.br/calendario/
 | 16 | 2022-11-22 Ter  |   **Prova I** |           |
 | 17 | 2022-11-24 Qui  | **Sem aula** (Jogo da Copa do Mundo) |           |
 | 18 | 2022-11-29 Ter | Tabelas Hash                                                                     | Ziviane cap 5, Cormen cap 11                             |
-| 19 | 2022-12-01 Qui | Pesquisa digital: árvores Trie e Patricia                                        | Ziviane cap 5                                            |
+| 19 | 2022-12-01 Qui | [T1 - Maratona de Ordenação](./trabalhos/T1)                                     |                                                          |
 | 20 | 2022-12-06 Ter | Pesquisa digital: árvores Trie e Patricia                                        | Ziviane cap 5                                            |
 |    | 2022-12-08 Qui |  **Feriado** (Nossa Senhora da Conceição)    |            |
 | 21 | 2022-12-13 Ter | Pesquisa em memória secundária, índices (densos e esparsos)                      | Ziviane cap 6, Silberschatz cap 10, Garcia-Molina cap 4  |

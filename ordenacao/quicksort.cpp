@@ -39,7 +39,7 @@ void Quicksort( vector<T>& A, int esq, int dir ) {
 
 int main(void)
 {
-    auto n = 1000;
+    auto n = 100000;
     vector<int> A(n);
     vector<int> Acopia(n);
 

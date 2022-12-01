@@ -12,25 +12,13 @@
 using namespace std;
 
 template<typename T>
-void Merge( vector<T>& A, int inicio, int meio, int fim, vector<T>& aux ){
-	auto i = inicio,j = meio + 1;
-	for(auto k = inicio; k <= fim; k++ )
-		aux[k] = A[k];
-	for(auto k = inicio; k <= fim; k++ ){
-		if(i > meio)		 A[k] = aux[j++];
-		else if(j > fim)	 A[k] = aux[i++];
-		else if(aux[j] < aux[i]) A[k] = aux[j++];
-		else 			 A[k] = aux[i++];
-	}
-}
-
-template<typename T>
-void Mergesort( vector<T>& A, int inicio, int fim, vector<T>& aux ){
-	if( inicio < fim ){
-		auto meio = (inicio + fim - 1)/2;
-		Mergesort( A, inicio, meio, aux );
-		Mergesort( A, meio + 1, fim, aux );
-		Merge( A, inicio, meio, fim, aux );
+void Selecao( vector<T>& A ) {
+	for( auto i = 0; i < A.size(); i++ ){
+		auto min = i;
+		for( auto j= i+1; j < A.size(); j++) 
+			if( A[j] < A[min] )
+				min = j;
+		swap( A[min], A[i] );
 	}
 }
 
@@ -38,8 +26,8 @@ int main(void)
 {
     auto n = 100000;
     vector<int> A(n);
-    vector<int> aux(n);
     vector<int> Acopia(n);
+    float ganho = 0.0;
 
      // a semente e o tempo desde 1/1/1970
     auto seed = chrono::high_resolution_clock::now().time_since_epoch().count();
@@ -53,16 +41,17 @@ int main(void)
     copy( A.begin(), A.end(), Acopia.begin() );
 
     // imprime entrada
-    copy( A.begin(), A.end(), ostream_iterator<int>(cout, " ") );
-    cout << endl;
+    //copy( A.begin(), A.end(), ostream_iterator<int>(cout, " ") );
+    //cout << endl;
 
     {
         // teste do algoritmo 
         auto inicio = chrono::system_clock::now();
-        Mergesort( A, 0, A.size()-1, aux );
+        Selecao( A );
         auto fim = chrono::system_clock::now();
         auto tempo = chrono::duration_cast<chrono::microseconds>(fim-inicio).count();
-        cout << setprecision(4) << tempo << " (us)" << endl;
+        //cout << setprecision(4) << tempo << " (us)" << endl;
+        ganho = tempo;
     }
  
     {
@@ -71,11 +60,15 @@ int main(void)
         sort( Acopia.begin(), Acopia.end() );
         auto fim = chrono::system_clock::now();
         auto tempo = chrono::duration_cast<chrono::microseconds>(fim-inicio).count();
-        cout << setprecision(4) << tempo << " (us)" << endl;
+        //cout << setprecision(4) << tempo << " (us)" << endl;
+        ganho = tempo/ganho;
     }
 
     // testamos a validade do resultado
-    assert( equal( A.begin(), A.end(), Acopia.begin() ) );
+    if (equal( A.begin(), A.end(), Acopia.begin() ) )
+        cout << setprecision(4) << ganho << endl;
+    else
+        cout << "0" << endl;
 
     return 0;
 }

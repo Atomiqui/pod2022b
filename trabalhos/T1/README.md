@@ -98,5 +98,6 @@ O valor do ranking será uma média de `10x` execuções do trabalho.
 - Não modifique o código da `main`, apenas a ordenação.
 - O algoritmo deve ser implementado. Não pode ser uma função de biblioteca.
 - O resultado precisa ser correto.
+- Estruturas adicionais, se necessárias, deve ser alocadas/criadas dentro da função de ordenação.
 - Não compila, zero.
 - Plágio, zero.

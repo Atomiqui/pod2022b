@@ -52,12 +52,12 @@ Calendário UFSM: https://www.ufsm.br/calendario/
 | 19 | 2022-12-01 Qui | [T1 - Maratona de Ordenação](./trabalhos/T1)                                     |                                                          |
 | 20 | 2022-12-06 Ter | Pesquisa digital: árvores Trie e Patricia                                        | Ziviane cap 5                                            |
 |    | 2022-12-08 Qui |  **Feriado** (Nossa Senhora da Conceição)    |            |
-| 21 | 2022-12-13 Ter | Pesquisa em memória secundária, índices (densos e esparsos)                      | Ziviane cap 6, Silberschatz cap 10, Garcia-Molina cap 4  |
-| 22 | 2022-12-15 Qui | Índices - Árvore B+                                                              |                                                          |
+| 21 | 2022-12-13 Ter | Pesquisa digital: árvores Trie e Patricia                                        | Ziviane cap 5                                            |
+| 22 | 2022-12-15 Qui | Pesquisa em memória secundária, índices (densos e esparsos)                      | Ziviane cap 6, Silberschatz cap 10, Garcia-Molina cap 4  |
 | 23 | 2022-12-20 Ter | Índices - Árvore B+                                                              |                                                          |
-| 24 | 2022-12-22 Qui | Índices hash, índices compostos, índices de bitmap                               | Silberchatz cap 11, Navathe cap 17, Garcia-Molina cap 5. |
-| 25 | 2023-01-03 Ter | Arquivos de grade e hash particionado, índices de múltiplas chaves, e árvores Kd | Garcia-Molina cap 5                                      |
-| 26 | 2023-01-05 Qui | Árvores quadrante e árvores R                                                    |                                                          |
+| 24 | 2022-12-22 Qui | Índices - Árvore B+                                                              |                                                          |
+| 25 | 2023-01-03 Ter | Índices hash, índices compostos, índices de bitmap                               | Silberchatz cap 11, Navathe cap 17, Garcia-Molina cap 5. |
+| 26 | 2023-01-05 Qui | Arquivos de grade e hash particionado, índices de múltiplas chaves, e árvores Kd | Garcia-Molina cap 5                                      |
 | 27 | 2023-01-10 Ter | Introdução a compressão de arquivos                                              |                                                          |
 | 28 | 2023-01-12 Qui | Métodos básicos e estatísticos                                                   |                                                          |
 | 29 | 2023-01-17 Ter | Métodos de compressão LZ77, LZ78, LZW.                                           |                                                          |
